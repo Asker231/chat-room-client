@@ -1,0 +1,11 @@
+:root {
+  --prymari-color:#6C68E1;
+  --bg-color:#F3F3F3;
+  --hover_color:#F3F4FD;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
